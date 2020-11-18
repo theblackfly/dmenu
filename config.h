@@ -4,7 +4,7 @@
 static int topbar = 1;  // -b  option; if 0, dmenu appears at bottom
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"Ubuntu Mono Nerd Font-12:regular",
+	"Ubuntu Mono Nerd Font-14:regular",
 	"JoyPixels:pixelsize=16:antialias=true:autohint=true"  // emojis
 };
 static const unsigned int bgalpha = 0xe0;
